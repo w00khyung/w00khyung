@@ -1,5 +1,5 @@
 ## Website
-- https://wookhyung.dev/
+- https://wookhyung.vercel.app/
 
 ## Open-source Contribution
 - [TanStack Router(Start): make head function scripts load properly](https://github.com/TanStack/router/pull/4323)
